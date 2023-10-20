@@ -1,0 +1,55 @@
+.moedas{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.titulo{
+    text-align: center;
+    background: #0071bc;
+    padding: 5px;
+    font-size: 15px;
+    color: white;
+
+}
+
+.input{
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.p{
+    text-align: center;
+}
+
+.botao{
+    background-color: #0071bc;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    display: block;
+    margin: 0 auto;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+.botao:hover{
+    background-color: #062863;
+    transition: 0.5s;
+}
+
+.tudo {
+    border: 1px solid;
+    margin: 40px 100px 10px 100px ;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
